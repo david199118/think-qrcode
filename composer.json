@@ -2,7 +2,7 @@
     "name": "cgland/thinkphp-qrcode",
     "description": "qrcode class",
     "homepage": "https://github.com/david199118/thinkphp-qrcode",
-    "version": "1.0.2",
+    "version": "2.0.0",
     "authors": [
         {
             "name": "david",
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "think\\code\\": "src/"
+            "Think\\Code\\": "src/"
         }
     }
 }
